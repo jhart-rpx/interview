@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  length_of_tail: 1
+  name: MyString
+  description: MyText
+
+two:
+  length_of_tail: 1
+  name: MyString
+  description: MyText
